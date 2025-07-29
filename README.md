@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👨‍💻 Alysson Santos
+*`Estudante de TI`*
 
-<!--
-**Alyssoonx05/Alyssoonx05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, me chamo Alysson dos Santos Souza, tenho 20 anos, resido na cidade de São Paulo  e estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE, atualmente estou no 2° semestre. Sou apaixonado por tecnologia e em busca de oportunidades para crescer como desenvolvedor, com interesse em programação e soluções criativas para problemas reais.<br>
+📫 Contato: [santosalysson2005@gmail.com](santosalysson2005@gmail.com) <br>🔗 LinkedIn: [Alysson Santos](www.linkedin.com/in/alysson-santos-550158267)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Linguagens e Tecnologias
+
+<img
+    align="left"
+    alt="HTML5"
+    width="35"
+    title="HTML5"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+
+<img
+    align="left"
+    alt="CSS3"
+    title="CSS3"
+    width="35"
+    style="padding-right: 10;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 Logo" width="100">
+
+<img 
+    align="left"
+    alt="JAVA SCRIPT"
+    title="JAVA SCRIPT"
+    width="35"
+    style="padding-right: 10;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="100">
+
+<img 
+    align="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="35"
+    style="padding-right: 10;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width="100">
