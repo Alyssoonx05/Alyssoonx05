@@ -13,7 +13,7 @@ Olá, me chamo Alysson dos Santos Souza, tenho 20 anos, resido na cidade de São
     alt="HTML5"
     width="35"
     title="HTML5"
-    style="padding-right: 10px;"
+    style="padding-right: 10;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 
 <img
